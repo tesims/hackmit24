@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+venv_py310/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# BabitMF (BMF) library
+bmf/
+
+# MediaPipe library
+mediapipe/
+
+# Any other large libraries or directories you want to ignore
+# large_library_name/
+
+# Ignore pip installation files
+*.whl
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore output videos
+output.mp4

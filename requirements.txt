@@ -1,0 +1,6 @@
+mediapipe
+BabitMF
+numpy
+torch 
+torchvision 
+scikit-learn
